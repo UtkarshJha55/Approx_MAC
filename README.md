@@ -7,5 +7,5 @@ It uses 8-bit multiplier with the accumulation of 3 stages, and is being carried
 The proposed approximate MAC is then compared against existing approximate MAC and exact MAC to evaluate its energy efficiency.
 
 Here's my design for approximate MAC
-<img src="[images/photo.png](https://github.com/user-attachments/assets/ce3f87dd-f2a1-42a2-b73f-27a47b4a0733)" alt="MAC Design" width="300" height="600"/>
+<img src="![image](https://github.com/user-attachments/assets/a3378b5b-559b-4052-8829-a30dda8dd322)" alt="MAC Design" width="300" height="600"/>
 
